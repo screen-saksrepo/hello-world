@@ -1,4 +1,5 @@
 # hello-world
-Hello-world intro to GitHub.
 
-A little intro about myself...Bla bla bla
+Hello-world intro to GitHub
+
+Something different for a second try...
